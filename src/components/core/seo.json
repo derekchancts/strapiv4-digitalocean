@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_core_seos",
+  "info": {
+    "displayName": "seo",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "metaText": {
+      "type": "string"
+    },
+    "metaMedia": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
